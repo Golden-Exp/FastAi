@@ -1,7 +1,11 @@
 #FastAi #tabular
+
 what is collaborative filtering?
+
 when we have a number of users and a number of products and to choose which products are more likely to be used by which users and recommend them, we use collaborative filtering. this is what usually happens when recommending movies in OTT(Netflix), recommending products to buy(Amazon), etc.
+
 In collaborative filtering, we look at the products that the user currently used and liked, find other users that had similar tastes and recommend the products that those users liked.
+
 ***"For example, on Netflix you may have watched lots of movies that are science fiction, full of action, and were made in the 1970s. Netflix may not know these particular properties of the films you have watched, but it will be able to see that other people that have watched the same movies that you watched also tended to watch other movies that are science fiction, full of action, and were made in the 1970s. In other words, to use this approach we don't necessarily need to know anything about the movies, except who like to watch them."***
 
 ## The data
